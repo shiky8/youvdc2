@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pydub
+librosa
+google-auth
+google-auth-oauthlib
+google-api-python-client
